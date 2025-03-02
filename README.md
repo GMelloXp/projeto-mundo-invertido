@@ -31,3 +31,7 @@ da para a série Stranger Things da Netflix.
 ### JavaScript
 - Introdução ao JavaScript
 - Manipulação do DOM
+
+## Visualizar o projeto
+  acesse o link https://magical-mochi-889e71.netlify.app/ 
+  ou vá no menu lateral que também tem o link disponível
